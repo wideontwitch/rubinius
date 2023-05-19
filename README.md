@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
