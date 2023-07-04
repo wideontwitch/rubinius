@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
