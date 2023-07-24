@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add docs links to all dataset YAMLs (#7360)
