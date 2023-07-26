@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
