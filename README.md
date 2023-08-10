@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update Colab notebook for YOLOv8.1 (#8660)
