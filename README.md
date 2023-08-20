@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Compare plt.get_backend() in lowercase (#8409)
