@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add new YOLOv8 OBB model metrics (#7379)
