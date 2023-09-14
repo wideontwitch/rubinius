@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update Docs language dropdown height (#6927)
