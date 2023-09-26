@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
