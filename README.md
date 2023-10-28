@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
