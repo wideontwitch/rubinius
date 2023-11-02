@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Auto-format by https://ultralytics.com/actions
