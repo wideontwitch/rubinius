@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix OpenVINO links (#7930)
