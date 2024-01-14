@@ -1,1 +1,1 @@
-added badges (#45)
+fix for predicting with batch_size > 1 (#47)
