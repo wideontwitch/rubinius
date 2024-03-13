@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Add Neural Magic Docs integrations page (#7234)
