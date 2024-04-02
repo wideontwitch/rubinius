@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add new @Retry() decorator (#7854)
