@@ -1,1 +1,1 @@
-added badges (#45)
+Add simple-utilities.md Docs page (#8269)
