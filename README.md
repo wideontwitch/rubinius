@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Expand Model method type hinting (#8279)
