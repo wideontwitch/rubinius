@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update Discord and Contributing Guide URLs (#9270)
