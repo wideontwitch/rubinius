@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix RTDETR generate anchor grid out of boundary (#7247)
