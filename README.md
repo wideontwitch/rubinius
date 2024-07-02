@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add docstrings to new HUB functions (#7576)
