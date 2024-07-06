@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+fix predict with class filter
