@@ -1,1 +1,1 @@
-fix predict with class filter
+Docs updates and improvements (#8183)
