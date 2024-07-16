@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update fraction arg to employ a random selection (#8234)
