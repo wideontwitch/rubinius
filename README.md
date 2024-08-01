@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
