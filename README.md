@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
