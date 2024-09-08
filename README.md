@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
