@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Merge pull request #22 from SkalskiP/patch-1
