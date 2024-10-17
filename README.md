@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
