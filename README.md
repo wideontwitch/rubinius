@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
