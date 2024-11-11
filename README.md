@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update HTTP to HTTPS (#7548)
