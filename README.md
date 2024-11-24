@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Rename model_id to model.id (#8447)
