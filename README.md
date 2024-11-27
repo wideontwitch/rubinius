@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update H1 in Explorer API docs (#7813)
