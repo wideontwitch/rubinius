@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Docs partial mdformat improvements (#7378)
